@@ -25,3 +25,9 @@ Through this database management system we planned to address the following busi
 * Car maintenance can be tracked to manage the service and repair history of rental cars.
 
 
+## Entities
+
+| Entity  | Overview |
+| ------------- | ------------- |
+| Person  | Content Cell  |
+| Customers  | Content Cell  |
