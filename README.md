@@ -49,7 +49,7 @@ Through this database management system we planned to address the following busi
 
 
 ## Entity Relationship Diagram 
-
+<br>
 <p align="center">
   <img src="https://github.com/vidhisejpal/Car-Rental-Management-System/blob/main/Final_ERD.png">
 </p>
@@ -57,27 +57,35 @@ Through this database management system we planned to address the following busi
 ## Visualization 
 
 1. Bar Graph indicating Total Revenue and Cancelled Reservation Based on Car Category
+<br>
   <p align="center">
     <img src="https://github.com/vidhisejpal/Car-Rental-Management-System/blob/main/Visualization/Car%20Category%20Stats.png">
   </p>
+  <br>
 2. Geographical Distribution of Car Reservation Based on Locations
+<br>
   <p align="center">
     <img src="https://github.com/vidhisejpal/Car-Rental-Management-System/blob/main/Visualization/Car%20Reservation%20Locations.png">
   </p>
+  <br>
 3. Bar Graph indicating Popular Insurance Type used by Customers for Car Reservation
+<br>
    <p align="center">
     <img src="https://github.com/vidhisejpal/Car-Rental-Management-System/blob/main/Visualization/Popular%20Insurance%20Type.png">
    </p>
+   <br>
 4. Pie Diagram indicating Penalty Reasons
+<br>
   <p align="center">
     <img src="https://github.com/vidhisejpal/Car-Rental-Management-System/blob/main/Visualization/Penalty%20Distribution.png">
   </p>
-  
+ <br> 
 5. Bar Graph indication Complaint Reasons by Customers
+<br>
    <p align="center">
       <img src="https://github.com/vidhisejpal/Car-Rental-Management-System/blob/main/Visualization/Complaint%20Details.png">
     </p>
-
+<br>
 ## Conclusion 
 
 * Our database helps customers to easily rent a car based on their preferences and avail of various insurance options and discounts. 
