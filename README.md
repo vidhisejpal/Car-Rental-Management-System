@@ -8,7 +8,9 @@ The Purpose is to provide a robust and efficient database management system in o
 ## Tools : 
 
 Data Model  : MS - SQL
+<br>
 Visualization : Tableau 
+<br>
 Others : SQL Server
 
 ## Business Problems Addressed :
