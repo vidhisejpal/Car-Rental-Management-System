@@ -53,3 +53,35 @@ Through this database management system we planned to address the following busi
 <p align="center">
   <img src="https://github.com/vidhisejpal/Car-Rental-Management-System/blob/main/Final_ERD.png">
 </p>
+
+## Visualization 
+
+1. Bar Graph indicating Total Revenue and Cancelled Reservation Based on Car Category
+  <p align="center">
+    <img src="https://github.com/vidhisejpal/Car-Rental-Management-System/blob/main/Visualization/Car%20Category%20Stats.png">
+  </p>
+2. Geographical Distribution of Car Reservation Based on Locations
+  <p align="center">
+    <img src="https://github.com/vidhisejpal/Car-Rental-Management-System/blob/main/Visualization/Car%20Reservation%20Locations.png">
+  </p>
+3. Bar Graph indicating Popular Insurance Type used by Customers for Car Reservation
+   <p align="center">
+    <img src="https://github.com/vidhisejpal/Car-Rental-Management-System/blob/main/Visualization/Popular%20Insurance%20Type.png">
+   </p>
+4. Pie Diagram indicating Penalty Reasons
+  <p align="center">
+    <img src="https://github.com/vidhisejpal/Car-Rental-Management-System/blob/main/Visualization/Penalty%20Distribution.png">
+  </p>
+  
+5. Bar Graph indication Complaint Reasons by Customers
+   <p align="center">
+      <img src="https://github.com/vidhisejpal/Car-Rental-Management-System/blob/main/Visualization/Complaint%20Details.png">
+    </p>
+
+## Conclusion 
+
+* Our database helps customers to easily rent a car based on their preferences and avail of various insurance options and discounts. 
+* This  system also provides an accurate billing system based on usage, including any penalties and taxes. 
+* Additionally, the system keeps track of payment details and offers customer support services to address any queries or complaints.
+* Furthermore, the system can track car maintenance to manage the service and repair history of rental cars, ensuring a smooth and efficient rental experience for customers.
+* Overall, this database management system provides a comprehensive solution for managing car rental services, from rental reservations to billing, payments, and maintenance tracking.
