@@ -29,5 +29,12 @@ Through this database management system we planned to address the following busi
 
 | Entity  | Overview |
 | ------------- | ------------- |
-| Person  | Content Cell  |
-| Customers  | Content Cell  |
+| Person  | Personal information of individuals |
+| Customers  | Information about customers who have rented a car  |
+| Employee  | Information about employees working at the car rental company |
+| Location | Addresses for pickup and drop-off locations |
+| Cars | Inventory of available rental cars |
+| Car Category | Details of types or categories of cars, each with unique features and pricing |
+| Car Maintenance | Records of maintenance and repairs for rental cars |
+| Car Reservation | Information about specific car reservations,, billing records, insurance coverage, discounts, pickup and drop-off locations, and expected return time|
+
