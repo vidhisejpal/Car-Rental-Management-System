@@ -1,1 +1,25 @@
 # Car-Rental-Management-System
+
+## Purpose : 
+
+The Purpose is to provide a robust and efficient database management system in order to make the car rental process smooth and streamlined. The primary objective is to provide a dependable and efficient system for managing the car rental business by offering a large selection of automobiles at reasonable prices, recording customer service and car maintenance, and utilising technology to make the car rental process as simple and hassle-free as possible.
+
+
+## Tools : 
+
+Data Model  : MS - SQL
+Visualization : Tableau 
+Others : SQL Server
+
+## Business Problems Addressed :
+
+Through this database management system we planned to address the following business problems:
+* The customers can rent a car by selecting the cars depending upon their preferences like time, location, car category, etc. 
+* The customers can opt for their preferred insurance and also avail discounts.
+* The customers can get a bill according to their usage depending on time, car selected, insurance type, discounts, penalties and taxes.
+* The system keeps a track of the payment details including information such as payment status, payment type and transaction details.
+* Customer support services are provided to assist the customers with their queries
+* The customers can raise complaints to provide their feedback on their car rental experience.
+* Car maintenance can be tracked to manage the service and repair history of rental cars.
+
+
