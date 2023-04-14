@@ -36,5 +36,13 @@ Through this database management system we planned to address the following busi
 | Cars | Inventory of available rental cars |
 | Car Category | Details of types or categories of cars, each with unique features and pricing |
 | Car Maintenance | Records of maintenance and repairs for rental cars |
-| Car Reservation | Information about specific car reservations,, billing records, insurance coverage, discounts, pickup and drop-off locations, and expected return time|
-
+| Car Reservation | Information about specific car reservations,, billing records, insurance coverage, discounts, pickup and drop-off locations, and expected return time |
+| Cancelled Reservation | Records of cancelled reservations and reasons for cancellation |
+| Insurance | Information about insurance coverage options |
+| Discount | Information about available discounts and promotional offers and their validity period |
+| Billing | Billing information, including rental costs, discounts, insurance fees, taxes, and penalties |
+| Payment | Payment information, including payment type, status, transaction ID, and timestamp |
+| Penalty | Reasons for penalties and associated costs |
+| Billing Penalty | Management of penalties associated with billing |
+| Customer Support | Information about customer inquiries and support requests |
+| Complaint | Information about customer complaints|
