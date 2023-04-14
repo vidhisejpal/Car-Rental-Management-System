@@ -51,5 +51,5 @@ Through this database management system we planned to address the following busi
 ## Entity Relationship Diagram 
 
 <p align="center">
-  <img src="https://github.com/vidhisejpal/Car-Rental-Management-System/blob/main/Final_ERD.png" width="350">
+  <img src="https://github.com/vidhisejpal/Car-Rental-Management-System/blob/main/Final_ERD.png">
 </p>
