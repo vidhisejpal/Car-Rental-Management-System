@@ -86,6 +86,7 @@ Through this database management system we planned to address the following busi
       <img src="https://github.com/vidhisejpal/Car-Rental-Management-System/blob/main/Visualization/Complaint%20Details.png">
     </p>
 <br>
+
 ## Conclusion 
 
 * Our database helps customers to easily rent a car based on their preferences and avail of various insurance options and discounts. 
