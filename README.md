@@ -49,3 +49,5 @@ Through this database management system we planned to address the following busi
 
 
 ## Entity Relationship Diagram 
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
