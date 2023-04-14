@@ -46,3 +46,6 @@ Through this database management system we planned to address the following busi
 | Billing Penalty | Management of penalties associated with billing |
 | Customer Support | Information about customer inquiries and support requests |
 | Complaint | Information about customer complaints|
+
+
+## Entity Relationship Diagram 
